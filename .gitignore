@@ -1,3 +1,6 @@
 # Ignore the script file with hardcoded secrets
 auto_pr_from_instruction.py
 
+# Ignore environment variables file
+.env
+
